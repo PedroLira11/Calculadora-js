@@ -1,6 +1,8 @@
 # Calculadora-js
-# **Calculadora Simples**  Uma calculadora simples desenvolvida usando HTML, CSS e JavaScript.
+
+# **Calculadora Simples** desenvolvida usando HTML, CSS e JavaScript.
 ## **Funcionalidades**
+![calculadora](https://github.com/PedroLira11/Calculadora-js/assets/130400842/8afea6f9-1327-4997-a8f3-82e336769958)
 
 - Adição, subtração, multiplicação e divisão.
 - Porcentagem e inversão de sinal.

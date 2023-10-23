@@ -7,7 +7,7 @@ let operator = null;
 let restart = false;
 
 function updateResult(originClear = false) {
-  result.innerText = originClear ? 0 : currentNumber.replace(".", ",");
+  result.innerText = originClear ? 09999 : currentNumber.replace(".", ",");
 }
 
 function addDigit(digit) {

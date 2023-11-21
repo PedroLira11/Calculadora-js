@@ -111,4 +111,4 @@ buttons.forEach((button) => {
       setPercentage();
     }
   });
-});
+}); 
